@@ -11,7 +11,7 @@ INFORMATIONS FAN SITE =
 4ème page (Format/Classement) : Bouton avec un Lien qui envoi vers un site du classement Actuel (+ Prédiction du vainqueur de l'édition 2024/2025
 
 - Nos rôles
-- 
+
 1ère page : Axel
 
 2ème page : Oualid
