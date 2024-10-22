@@ -1,27 +1,17 @@
 INFORMATIONS FAN SITE =
 
-- Notre Plan
+- Nouveau Plan :
 
-1ère page (Accueil) : Présentation, Photos, Qu'est ce que l'UEFA
+Un site commun "Accueil" (index.html) --> Avec la présentation succintes des 3 présentations + Lien NavBar pour amener aux 3 sites différents
 
-2ème page (Histoire) : Chronologie, Comment ça a été créé, par qui, Evolution principal des règles
+3 Sites différents avec la navigation barre (ce qui est demandé)
 
-3ème page (Palmarès) : Les équipes à titres, un sorte de classement avec les équipes avec le plus de titres remportés
+- Oualid : Zinedine Zidane
 
-4ème page (Format/Classement) : Bouton avec un Lien qui envoi vers un site du classement Actuel (+ Prédiction du vainqueur de l'édition 2024/2025
+- Naël : Equipe de France
 
-- Nos rôles
+- Axel : Equipe nationale brésilienne
 
-1ère page : Axel
-
-2ème page : Oualid
-
-3ème page : Naël
-
-4ème page : Ensemble
-
-- Idées en plus ?
-. . .
 
 - P.S.
 Faire attention à :
