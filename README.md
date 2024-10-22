@@ -2,7 +2,7 @@ INFORMATIONS FAN SITE =
 
 - Notre Plan
 
-1ère page (Accueil) : Logo, Bandeau Nav, Présentation, Photos
+1ère page (Accueil) : Présentation, Photos, Qu'est ce que l'UEFA
 
 2ème page (Histoire) : Chronologie, Comment ça a été créé, par qui, Evolution principal des règles
 
@@ -11,6 +11,7 @@ INFORMATIONS FAN SITE =
 4ème page (Format/Classement) : Bouton avec un Lien qui envoi vers un site du classement Actuel (+ Prédiction du vainqueur de l'édition 2024/2025
 
 - Nos rôles
+- 
 1ère page : Axel
 
 2ème page : Oualid
@@ -26,6 +27,7 @@ INFORMATIONS FAN SITE =
 Faire attention à :
 
 utilise les balises semantiques (nav, header, main, footer, article, section)
+
 utiliser les alt
 
 minimiser les div et span
