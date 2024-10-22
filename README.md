@@ -14,3 +14,12 @@ INFORMATIONS FAN SITE =
 
 - Idées en plus ?
 . . .
+
+- P.S.
+Faire attention à :
+utilise les balises semantiques (nav, header, main, footer, article, section)
+utiliser les alt
+minimiser les div et span
+utiliser aria-label (balise pour handicapé, pour etre lu) exemple : aria-label=fleurs jaune
+
+Vérifier W3C Validator
