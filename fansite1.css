@@ -5,11 +5,11 @@
     overflow-x: hidden;
 }
 
-/* Commentaire*/
 body{
     font-family: "Fira Sans", sans-serif;
     font-style: normal;
     color: whitesmoke;
+    position: relative;
 }
 
 .navbar{
@@ -71,6 +71,74 @@ body{
     text-decoration: none;
 }
 
+@media only screen and (max-width: 1133px){
+    .navbar ul{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 1em;
+        gap: 0.8em;
+    }
+    .navbar{
+        height: 100%;
+    }
+    .navbar2 ul{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 1em;
+        gap: 0.8em;
+    }
+    .navbar2{
+        height: 100%;
+    }
+    .sousnavbar ul{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 1em;
+        gap: 0.8em;
+    }
+    .sousnavbar{
+        height: 100%;
+    }
+
+    .feuille{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .Discog{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .streamés{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .act{
+        width: 100%;
+    }
+    .Evenements{
+        width: 100%;
+    }
+    .clip{
+        width: 100%;
+    }
+    .reseau{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
+
 main{
     background-color: #be1212;
     padding: 1em;
@@ -82,9 +150,9 @@ main{
 }
 
 .titre{
-    display: flex;
+    display: block;
     justify-content: center;
-    width: 40em;
+    width: 50%;
     margin-left: 3em;
     margin-top: 1em;
     margin-bottom: 1.5em;
@@ -96,7 +164,7 @@ p{
 
 .costume{
     float: right;
-    width: 18em;
+    width: 23%;
     margin-right: 8em;
     border-style: hidden;
     border-radius: 60px;
@@ -247,7 +315,7 @@ p{
 .bas{
     margin-top: 5em;
 }
-.Réseaux{
+.reseau{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
