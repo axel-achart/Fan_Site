@@ -29,10 +29,9 @@ body{
     list-style-type: none;
     text-decoration: none;
 }
-
-
-
-
+.navbar ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.432);
+}
 .sousnavbar{
     background-color: rgb(110, 77, 77);
     height: 3em;
@@ -49,6 +48,9 @@ body{
     font-size: 1.3em;
     list-style-type: none;
     text-decoration: none;
+}
+.sousnavbar ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.205);
 }
 
 
@@ -172,6 +174,10 @@ p{
     box-sizing: border-box;
     background-color: transparent;
 }
+.costume:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px white;
+}
 
 .Présentation{
     width: 60%;
@@ -203,6 +209,9 @@ h3{
 .couverture{
     width: 16em;
 }
+.couverture:hover{
+    transform: scale(1.05);
+}
 
 .streamés{
     display: flex;
@@ -228,6 +237,9 @@ h3{
     justify-content: center;
     align-items: center;
 }
+.actu:hover{
+    transform: scale(1.05);
+}
 
 
 .Evenements{
@@ -244,6 +256,12 @@ h3{
     width: 37em;
     display: flex;
     justify-content: space-around;
+}
+.concert:hover{
+    transform: scale(1.05);
+}
+.concert2:hover{
+    transform: scale(1.05);
 }
 
 #pres{
